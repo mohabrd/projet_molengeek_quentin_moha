@@ -22306,5 +22306,12 @@ hr {
 }
 
 .QS3 {
-  background-image: url(../../../public/img/background/sub.jpeg);
+  background-image: url(../../../public/img/background/testi.png);
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+}
+.QS3 h2, .QS3 .h2 {
+  color: white;
+  font-size: 250%;
 }
