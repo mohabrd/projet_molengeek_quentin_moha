@@ -22270,3 +22270,24 @@ button {
   border-radius: 0% !important;
   color: white !important;
 }
+
+.QS2 {
+  height: 600px;
+  background-color: white;
+}
+
+.QS2cont {
+  margin-top: 4%;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+hr {
+  width: 100px;
+  border: 2px solid rgb(255, 173, 22);
+  justify-content: center;
+  display: flex;
+}
