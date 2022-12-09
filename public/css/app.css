@@ -22394,3 +22394,13 @@ textarea.form-control-lg {
 .marques li {
   margin: 20px;
 }
+
+.subscribe-us {
+  display: flex;
+  height: 50vh;
+  width: 100%;
+  background-image: linear-gradient(90deg, rgb(31, 172, 123) 0%, rgba(34, 195, 152, 0.6) 0%), url(../../../public/Image_Sass_P2/background/sub.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+}
