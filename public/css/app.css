@@ -22418,3 +22418,8 @@ textarea.form-control-lg {
   font-size: xx-large;
   font-size: 250%;
 }
+
+.text-subscribe span {
+  display: flex;
+  color: white;
+}
