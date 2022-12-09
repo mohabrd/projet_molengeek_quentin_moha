@@ -22378,3 +22378,10 @@ textarea.form-control-lg {
     font-weight: bold;
   }
 }
+.logo-marque {
+  display: flex;
+  height: 30vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
