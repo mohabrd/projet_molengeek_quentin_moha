@@ -1,0 +1,16 @@
+.logo-marque {
+    display: flex;
+    height: 30vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.marques {
+    display: flex;
+    list-style: none;
+}
+
+.marques li {
+    margin: 20px;
+}
