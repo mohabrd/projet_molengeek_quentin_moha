@@ -22248,11 +22248,10 @@ textarea.form-control-lg {
   }
 }
 .QS1 {
-  height: 650px;
-  width: auto;
-  background-image: url(../../../public/img/background/hero.jpeg);
+  height: 700px;
   width: 100%;
-  background: cover;
+  background-image: url(../../../public/img/background/hero.jpeg);
+  background-size: cover;
 }
 
 .QS1text {
@@ -22290,4 +22289,18 @@ hr {
   border: 2px solid rgb(255, 173, 22);
   justify-content: center;
   display: flex;
+}
+
+.cartQ {
+  width: 25%;
+}
+.cartQ h3, .cartQ .h3 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.QS2cont2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 6%;
 }
