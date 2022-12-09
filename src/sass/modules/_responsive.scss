@@ -9,6 +9,10 @@
         flex-direction: column;}
     .cartQ{
         width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
     }
     .QS4{
         height: auto;}
@@ -18,4 +22,10 @@
             margin-top: 6%;
             flex-direction: column; 
         }
+        .FQ1{
+        height:auto;
+        }
+    .FQ1B{
+        opacity: 0%;
+    }
     }

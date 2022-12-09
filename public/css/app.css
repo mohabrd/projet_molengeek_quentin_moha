@@ -22345,6 +22345,10 @@ hr {
   }
   .cartQ {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
   }
   .QS4 {
     height: auto;
@@ -22354,6 +22358,12 @@ hr {
     justify-content: center;
     margin-top: 6%;
     flex-direction: column;
+  }
+  .FQ1 {
+    height: auto;
+  }
+  .FQ1B {
+    opacity: 0%;
   }
 }
 .FQ1 {
@@ -22365,6 +22375,9 @@ hr {
 }
 
 .FQ1B {
-  height: 60px;
+  height: 70px;
   background-color: black;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
