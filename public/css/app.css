@@ -22356,11 +22356,10 @@ hr {
     flex-direction: column;
   }
 }
-footer {
-  background-color: grey;
+.FQ1 {
   height: 500px;
-  width: auto;
+  background-color: grey;
 }
-footer .col {
-  width: 75%;
+.FQ1 .col {
+  margin-top: 8%;
 }
