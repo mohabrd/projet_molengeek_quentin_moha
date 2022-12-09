@@ -22332,3 +22332,27 @@ hr {
 .QS4 .container {
   margin-top: 5%;
 }
+
+@media screen and (max-width: 380px) {
+  .QS2 {
+    height: auto;
+  }
+  .QS2cont2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+    flex-direction: column;
+  }
+  .cartQ {
+    width: 100%;
+  }
+  .QS4 {
+    height: auto;
+  }
+  .row {
+    display: block;
+    justify-content: center;
+    margin-top: 6%;
+    flex-direction: column;
+  }
+}
