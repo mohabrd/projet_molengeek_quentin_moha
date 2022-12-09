@@ -22356,3 +22356,11 @@ hr {
     flex-direction: column;
   }
 }
+footer {
+  background-color: grey;
+  height: 500px;
+  width: auto;
+}
+footer .col {
+  width: 75%;
+}
