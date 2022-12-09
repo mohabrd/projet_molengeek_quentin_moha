@@ -22427,3 +22427,14 @@ textarea.form-control-lg {
 .text-subscribe input {
   margin-top: 10%;
 }
+
+.bouton {
+  height: 50%;
+  align-items: baseline !important;
+  margin-top: 10%;
+  margin-left: 25%;
+  background-color: violet;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
