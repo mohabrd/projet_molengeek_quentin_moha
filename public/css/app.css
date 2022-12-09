@@ -22423,3 +22423,7 @@ textarea.form-control-lg {
   display: flex;
   color: white;
 }
+
+.text-subscribe input {
+  margin-top: 10%;
+}
