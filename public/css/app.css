@@ -22411,3 +22411,10 @@ textarea.form-control-lg {
   align-items: center;
   flex-direction: column;
 }
+
+.text-subscribe p {
+  display: flex;
+  color: white;
+  font-size: xx-large;
+  font-size: 250%;
+}
