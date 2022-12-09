@@ -22404,3 +22404,10 @@ textarea.form-control-lg {
   background-size: cover;
   justify-content: center;
 }
+
+.text-subscribe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
