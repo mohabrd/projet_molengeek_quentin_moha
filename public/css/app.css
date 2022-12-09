@@ -22320,3 +22320,27 @@ hr {
 .Q3cont {
   padding-top: 5%;
 }
+
+#carouselExampleFade {
+  margin-top: 10%;
+}
+
+.QS3 {
+  background-image: url(../../../public/img/background/testi.png);
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+.QS3 h2, .QS3 .h2 {
+  color: white;
+  font-size: 250%;
+  text-align: center;
+}
+
+.Q3cont {
+  padding-top: 5%;
+}
+
+#carouselExampleFade {
+  margin-top: 10%;
+}
